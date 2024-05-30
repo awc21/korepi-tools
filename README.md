@@ -2,8 +2,7 @@
 
 ## Downloads
 
-- `git clone https://github.com/awc21/korepi-tools.git`
-- or click the green `<> Code` button then select `Download ZIP`
+[Latest Release](https://github.com/awc21/korepi-tools/releases/latest)
 
 
 ## How to Use (Local auth)

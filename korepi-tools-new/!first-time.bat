@@ -2,6 +2,7 @@
 openfiles > NUL 2>&1 || echo Requesting administrative privileges... | PowerShell -Command "Start-Process '%~f0' -Verb RunAs -ArgumentList '%cd%'" && exit /b 
 cd /d %1
 call node\npm i
+attrib +r .\GH4.8_x64\Settings.ini
 rmdir /s /q .\game\enc
 del .\game\enc.json
 cls

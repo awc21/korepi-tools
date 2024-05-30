@@ -8,6 +8,7 @@ ren %SystemRoot%\System32\Drivers\etc\hosts hosts-backup
 copy /y .\hosts %SystemRoot%\System32\Drivers\etc > NUL
 
 echo Starting GH Injector
+attrib +r .\GH4.8_x64\Settings.ini
 start "" /d .\GH4.8_x64 "GH Injector - x64.exe"
 echo Starting server
 timeout /t 1 /nobreak > NUL 2>&1
