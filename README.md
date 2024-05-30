@@ -11,7 +11,7 @@
 2. Then select `first-time-setup`
 1. Wait for `KOREPI`, then enter your `HWID` to `LICENSE GEN`
 3. After the setup is done, select `start` 
-4. If everything goes well, Simply select the game path and the game should start (unless Korepi crashes due to instability).
+4. If everything goes well, Simply select the game executables and the game should start (unless Korepi crashes due to instability).
 
 ## Notes
 - For future launches, just start `MENU.bat` then select `option 2`
