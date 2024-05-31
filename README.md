@@ -2,8 +2,8 @@
 
 ## Downloads
 
-[Latest Release](https://github.com/awc21/korepi-tools/releases/latest)
-
+- [Latest Release](https://github.com/awc21/korepi-tools/releases/latest)
+- ```git clone https://github.com/awc21/korepi-tools.git```
 
 ## How to Use (Local auth)
 
