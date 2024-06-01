@@ -3,7 +3,7 @@
 ## Downloads
 
 - [Latest Release](https://github.com/awc21/korepi-tools/releases/latest)
-- ```git clone https://github.com/awc21/korepi-tools.git```
+- `git clone https://github.com/awc21/korepi-tools.git`
 
 ## How to Use (Local auth)
 
@@ -15,6 +15,7 @@
 
 ## Notes
 - For future launches, just start `MENU.bat` then select `option 2`
+- Download the repository directly to get the minor changes, or use `git clone`
 - I'm not responsible for any damages you may incur from using this. This is publicly available for educational purposes only.
 
 ## Credits

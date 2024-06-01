@@ -18,7 +18,6 @@ set /p choice=Please choose an option (1-3):
 
 if "%choice%"=="1" goto feature1
 if "%choice%"=="2" goto feature2
-::if "%choice%"=="9" goto feature3
 if "%choice%"=="3" goto end
 echo Invalid choice, please try again.
 pause
@@ -37,11 +36,6 @@ call !test.bat
 popd
 timeout /t 2 /nobreak > NUL
 goto end
-
-::feature3
-::call feature3.cmd
-::pause
-::goto menu
 
 :end
 echo Exiting...
